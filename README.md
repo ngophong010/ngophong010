@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngophong010" alt="ngophong010" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+## About Me
+- 🔭 I’m currently working on web development and exploring DevOps methodologies.
 
-- 📫 How to reach me **ngophong010@gmail.com**
+- 🌱 I’m learning to become a DevOps engineer—diving into Docker, Kubernetes, and CI/CD pipelines.
+<!--- - 👯 I’m open to collaborating on innovative open-source projects. --->
+- 📫 How to reach me: [ngophong010@gmai.com](mailto:ngophong010@gmai.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <!-- Languages -->
   <strong>Languages:</strong><br>
@@ -164,7 +166,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngophong010&show_icons=true&locale=en" alt="ngophong010" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ngophong010&show_icons=true&locale=en&theme=gotham" alt="ngophong010" /></p>
 
 <!--
 **ngophong010/ngophong010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
