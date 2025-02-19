@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning to become a DevOps engineer—diving into Docker, Kubernetes, and CI/CD pipelines.
 <!--- - 👯 I’m open to collaborating on innovative open-source projects. --->
-- 📫 How to reach me: [ngophong010@gmai.com](mailto:ngophong010@gmai.com)
+
 
 <p align="left">
 </p>
@@ -20,7 +20,7 @@
   <!-- Languages -->
   <strong>Languages:</strong><br>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://www.reddit.com/r/Blockbench/comments/14twtpm/c_and_c_icons/" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -167,6 +167,13 @@
 
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ngophong010&show_icons=true&locale=en&theme=gotham" alt="ngophong010" /></p>
+
+## Connect with Me
+- Email: [ngophong010@gmai.com](mailto:ngophong010@gmai.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/phong-ngo-948b4b320/)
+- GitHub: [@ngophong010](https://github.com/ngophong010)
+
+Thank you for visiting my profile!
 
 <!--
 **ngophong010/ngophong010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
