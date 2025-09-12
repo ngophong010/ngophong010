@@ -117,7 +117,7 @@ That curiosity is now driving me to dive deep into the world of **DevOps**. I'm 
 </p>
 
 <p align="center"> 
-  <img src="https://github.com/ngophong010/ngophong010/blob/output/github-contribution-grid-snake.svg" alt="snake"></p>
+  <img src="https://raw.githubusercontent.com/ngophong010/ngophong010/main/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
