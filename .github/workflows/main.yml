@@ -1,0 +1,42 @@
+# GitHub Action for generating a contribution graph with a snake animation
+
+name: Generate Snake Animation
+
+on:
+  # Run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          # Your GitHub username
+          github_user_name: ${{ github.repository_owner }}
+
+          # A list of comma-separated branches to include in the contribution graph.
+          # Let's use `main` since that's your branch name.
+          # If your default branch is `master`, change it here.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Generate Contribution Snake"
+            git push
+          fi
